@@ -5,6 +5,20 @@ Append-only журнал сессий проекта `VIDEO-CLAUDE-CHAT`.
 
 ---
 
+## 2026-06-16 — Сессия 2: MY-COMMENTS на GitHub, закрытие сессии
+
+**Сделано:**
+
+- Загружены в `MY-COMMENTS/` и запушены на GitHub (коммит `5461165`):
+  - 4 Word-файла с исследованием (идея/сервисы, Firefly/API, Remotion, обходной путь)
+  - `chat-commands-cheatsheet.md` — шпаргалка фраз архитектору + slash-команды Cursor
+- Обновлены `CONTEXT.md` (карта MY-COMMENTS), сессия закрыта.
+- **ПК1 = GitHub = `5461165`.**
+
+**Следующее (новая сессия):** стадия A (`--images-only`), когда будет `.env` с `FAL_KEY`.
+
+---
+
 ## 2026-06-16 — Сессия 1 (финал): GitHub синхронизирован
 
 **init-s02 принят:** `git push --force-with-lease` → GitHub `82e856b`.
