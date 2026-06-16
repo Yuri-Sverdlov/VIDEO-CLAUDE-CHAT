@@ -43,9 +43,9 @@
 
 ## Текущий фокус
 
-**Сейчас в `tasks/TASK.md`:** `init-s02` — push на GitHub (`--force-with-lease`).
+**Сейчас в `tasks/TASK.md`:** активного задания нет. GitHub синхронизирован (`82e856b`).
 
-**Следующее (после init-s02):** стадия A — `--images-only` (см. `tasks/backlog/2026-06-16_stage-a-images-only.md`).
+**Следующее:** стадия A — `--images-only` (нужен `.env` с `FAL_KEY`).
 
 ---
 
