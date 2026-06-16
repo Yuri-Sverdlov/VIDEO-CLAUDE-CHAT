@@ -1,0 +1,15 @@
+# Секреты — НИКОГДА не коммитить ключ
+.env
+
+# Сгенерированные медиа
+output/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# ОС
+.DS_Store
+Thumbs.db
