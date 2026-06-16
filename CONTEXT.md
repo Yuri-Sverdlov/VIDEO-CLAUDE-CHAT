@@ -43,10 +43,9 @@
 
 ## Текущий фокус
 
-**Сейчас в `tasks/TASK.md`:** `init-s01` — перенос кода с GitHub в рабочую директорию
-и адаптация под двухагентную схему. Пайплайн **ещё не запускали**.
+**Сейчас в `tasks/TASK.md`:** `init-s02` — push на GitHub (`--force-with-lease`).
 
-**Следующее (после init-s01):** стадия A — `--images-only` (см. `tasks/backlog/`).
+**Следующее (после init-s02):** стадия A — `--images-only` (см. `tasks/backlog/2026-06-16_stage-a-images-only.md`).
 
 ---
 

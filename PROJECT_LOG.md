@@ -5,6 +5,16 @@ Append-only журнал сессий проекта `VIDEO-CLAUDE-CHAT`.
 
 ---
 
+## 2026-06-16 — Сессия 1 (продолжение): приёмка init-s01, задание init-s02
+
+**Приёмка init-s01:** коммит `927d80a`, 17 файлов. Кодер отработал образцово.
+Push отложен — unrelated histories. Решение: `--force-with-lease`.
+Архив → `tasks/done/2026-06-16_init-s01/`.
+
+**Следующее:** кодер выполняет `init-s02` (git push), затем стадия A.
+
+---
+
 ## 2026-06-16 — Сессия 1: задание init-s01 (перенос с GitHub)
 
 **Контекст:** исходный код на [GitHub](https://github.com/Yuri-Sverdlov/VIDEO-CLAUDE-CHAT)
